@@ -69,5 +69,5 @@ There might be a way to solve this exercise quickly by using CyberChef or dcode.
 - [CyberChef](https://cyberchef.io)
 - [dcode](https://dcode.fr)
 
-
+---
   <center> <a href="https://enso.no" target="_blank">Made with ❤️ by Ensō</a>  </center>
