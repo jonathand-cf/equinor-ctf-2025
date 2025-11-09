@@ -59,9 +59,11 @@ Steps:
 ### boot2root
  - **[cve-safari](/writeups/boot2root/cve-safari)**
  - **[PotatoHead (user)](/writeups/boot2root/PotatoHead%20(user))**
+	 - [RumbleInTheJungle](/writeups/boot2root/PotatoHead%20(user)/RumbleInTheJungle)  
  - **[FOMO (root)](/writeups/boot2root/FOMO%20(root))**
  - **[FOMO (user)](/writeups/boot2root/FOMO%20(user))**
  - **[PotatoHead (root)](/writeups/boot2root/PotatoHead%20(root))**
+	 - [RumbleInTheJungle](/writeups/boot2root/PotatoHead%20(root)/RumbleInTheJungle)  
 ### sanity
  - **[EPTBOX](/writeups/sanity/EPTBOX)**
  - **[(in)Sanity](/writeups/sanity/(in)Sanity)**
