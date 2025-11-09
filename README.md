@@ -38,6 +38,7 @@ Steps:
 	 - [Kernel Carnage](/writeups/web/Of%20CORS%20I%20Can%20Help!/Kernel%20Carnage)  
 	 - [sifi](/writeups/web/Of%20CORS%20I%20Can%20Help!/sifi)  
 	 - [bwnfools](/writeups/web/Of%20CORS%20I%20Can%20Help!/bwnfools)  
+	 - [synapse_burnout](/writeups/web/Of%20CORS%20I%20Can%20Help!/synapse_burnout)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
 	 - [sifi](/writeups/web/EPT%20Cinemas/sifi)  
