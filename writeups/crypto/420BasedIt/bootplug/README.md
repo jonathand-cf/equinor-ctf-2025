@@ -4,6 +4,7 @@
 
 ## Challenge
 
+### Challenge Text
 ```
 I was gonna write a crypto challenge, but then I got high...
 

@@ -4,7 +4,13 @@
 
 ## Challenge
 
-Spin the wheel for a flag (or at least part of it)
+### Challenge Text
+
+```
+Complete a quick survey and spin the wheel for your chance to win the flag! 
+Each visitor gets exactly one spin per day... but the flag is real, and the 
+odds aren't in your favor. Maybe the rules are more like guidelines? 🏴‍☠️
+```
 
 ## Process
 

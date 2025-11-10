@@ -4,7 +4,13 @@
 
 ## Challenge
 
-Beat the game to get the flag
+### Challenge Text
+
+```
+Can you defeat the imperialistic oil polluters and bring back the new republic?
+
+Find a way to win the game, show off your skills in the gaming area and get the real flag.
+```
 
 ## Process
 

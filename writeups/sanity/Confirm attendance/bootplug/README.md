@@ -5,7 +5,12 @@
 ## Challenge
 
 Possibly the hardest challenge of EPT 2025.
+
+### Challenge Text
+
+```
 For the last time, we ask you to confirm that you will attend Equinor CTF 2025.
+```
 
 ## Process
 
