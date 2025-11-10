@@ -67,6 +67,7 @@ Steps:
 	 - [big](/writeups/web/breadcrumbs/big)  
 	 - [B00S](/writeups/web/breadcrumbs/B00S)  
 	 - [bwnfools](/writeups/web/breadcrumbs/bwnfools)  
+	 - [synapse_burnout](/writeups/web/breadcrumbs/synapse_burnout)  
 ### crypto
  - **[Hyperactive](/writeups/crypto/Hyperactive)**
  - **[Make-a-String](/writeups/crypto/Make-a-String)**
@@ -148,6 +149,7 @@ Steps:
 	 - [big](/writeups/forensics/Insider%20Threat/big)  
 	 - [bwnfools](/writeups/forensics/Insider%20Threat/bwnfools)  
  - **[Home Intrusion](/writeups/forensics/Home%20Intrusion)**
+	 - [Trånn Jånn](/writeups/forensics/Home%20Intrusion/Trånn%20Jånn)  
 ### pwn
  - **[Fiftiweb](/writeups/pwn/Fiftiweb)**
  - **[Badge Overflow](/writeups/pwn/Badge%20Overflow)**
